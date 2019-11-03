@@ -16,3 +16,4 @@
 - [唐宇迪部分自然语言处理](https://www.bilibili.com/video/av50494489/?p=19)
 ## 深度学习
 - [零基础入门深度学习西电文档](https://www.zybuluo.com/hanbingtao/note/433855)
+- [深度学习书籍和视频资源推荐](https://blog.csdn.net/HaruStone/article/details/93187625)
