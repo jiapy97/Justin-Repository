@@ -17,3 +17,5 @@
 ## 深度学习
 - [零基础入门深度学习西电文档](https://www.zybuluo.com/hanbingtao/note/433855)
 - [深度学习书籍和视频资源推荐](https://blog.csdn.net/HaruStone/article/details/93187625)
+- [吴恩达老师的深度学习课程笔记及资源](https://github.com/fengdu78/deeplearning_ai_books)
+- [深度学习和TensorFlow学习资源（书籍、文档和视频）](https://blog.csdn.net/lhh08hasee/article/details/80546919)
