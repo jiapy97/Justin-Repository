@@ -5,6 +5,10 @@
 - [pycharm激活的方法](https://www.cnblogs.com/zsdofblog/p/11732110.html)
 - [好用的VPN](http://ssr01.com/user/shop)
 ## 正文：
+## python3学习
+- [Python中self用法详解](https://blog.csdn.net/CLHugh/article/details/75000104)
+
+
 ## 自然语言处理
 ### NLTK
 - [python自然语言处理](https://www.bilibili.com/video/av29796449)
