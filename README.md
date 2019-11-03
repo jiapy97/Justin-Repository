@@ -9,3 +9,4 @@
 ### NLTK
 - [python自然语言处理](https://www.bilibili.com/video/av29796449)
 - [比较不错的机器学习和NLP入门规划](https://www.pkudodo.com/2019/03/20/1-10/)
+- [唐宇迪部分自然语言处理](https://www.bilibili.com/video/av50494489/?p=19)
