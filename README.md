@@ -23,3 +23,5 @@
 这可能是机器学习最简洁的一个划分：
 
 ![ml](https://wiki.huihoo.com/images/6/69/Machine-learning-supervised-vs-unsupervised-learning.png)
+## 机器学习
+- [优秀的机器学习笔记](https://github.com/AI-Full-Stacker/Articles)
