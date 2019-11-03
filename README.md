@@ -10,10 +10,11 @@
 
 
 ## 自然语言处理
-### NLTK
+
 - [python自然语言处理](https://www.bilibili.com/video/av29796449)
 - [比较不错的机器学习和NLP入门规划](https://www.pkudodo.com/2019/03/20/1-10/)
 - [唐宇迪部分自然语言处理](https://www.bilibili.com/video/av50494489/?p=19)
+- [自然语言处理一个优质的GitHub](https://github.com/JackKuo666/NLP_basis)
 ## 深度学习
 - [零基础入门深度学习西电文档](https://www.zybuluo.com/hanbingtao/note/433855)
 - [深度学习书籍和视频资源推荐](https://blog.csdn.net/HaruStone/article/details/93187625)
