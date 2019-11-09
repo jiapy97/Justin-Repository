@@ -7,7 +7,7 @@
 ## 正文：
 ## python3学习
 - [Python中self用法详解](https://blog.csdn.net/CLHugh/article/details/75000104)
-
+- [Python isinstance()函数](https://blog.csdn.net/qq_18649781/article/details/89511976)
 
 ## 自然语言处理
 
