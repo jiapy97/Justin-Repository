@@ -15,6 +15,7 @@
 - [比较不错的机器学习和NLP入门规划](https://www.pkudodo.com/2019/03/20/1-10/)
 - [唐宇迪部分自然语言处理](https://www.bilibili.com/video/av50494489/?p=19)
 - [自然语言处理一个优质的GitHub](https://github.com/JackKuo666/NLP_basis)
+- [基于 word2vec 和 CNN 的文本分类 ：综述 & 实践](https://www.csdn.net/link?target_url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F29076736&id=80649356&token=8879691856f375b124fdf026f9abdb54)
 ## 深度学习
 - [零基础入门深度学习西电文档](https://www.zybuluo.com/hanbingtao/note/433855)
 - [深度学习书籍和视频资源推荐](https://blog.csdn.net/HaruStone/article/details/93187625)
