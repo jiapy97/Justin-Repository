@@ -9,6 +9,9 @@
 - [Python中self用法详解](https://blog.csdn.net/CLHugh/article/details/75000104)
 - [Python isinstance()函数](https://blog.csdn.net/qq_18649781/article/details/89511976)
 
+
+## 网络安全
+- [Web 安全入门1-书籍及建议](https://zhuanlan.zhihu.com/p/21339385)
 ## 自然语言处理
 
 - [python自然语言处理](https://www.bilibili.com/video/av29796449)
