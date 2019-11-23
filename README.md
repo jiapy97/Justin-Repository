@@ -33,3 +33,4 @@
 ![ml](https://github.com/qq1120637483/Justin-Repository/blob/master/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%AE%9E%E7%8E%B0%E8%BF%87%E7%A8%8B.JPG)
 ## 机器学习
 - [优秀的机器学习笔记](https://github.com/AI-Full-Stacker/Articles)
+- [生动理解TF-IDF算法](https://zhuanlan.zhihu.com/p/31197209)
