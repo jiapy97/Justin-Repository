@@ -24,6 +24,7 @@
 - [深度学习书籍和视频资源推荐](https://blog.csdn.net/HaruStone/article/details/93187625)
 - [吴恩达老师的深度学习课程笔记及资源](https://github.com/fengdu78/deeplearning_ai_books)
 - [深度学习和TensorFlow学习资源（书籍、文档和视频）](https://blog.csdn.net/lhh08hasee/article/details/80546919)
+- [DeepLearning学习笔记](https://zhuanlan.zhihu.com/deeplearningnotes)
 - [深度学习比较全面的学习路线图](https://github.com/apachecn/AiLearning)
 这可能是机器学习最简洁的一个划分：
 
