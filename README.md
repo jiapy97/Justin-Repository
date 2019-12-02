@@ -4,6 +4,7 @@
 - [pycharm中超时安装的方法](https://blog.csdn.net/m0_37827405/article/details/81486272)
 - [pycharm激活的方法](https://www.cnblogs.com/zsdofblog/p/11732110.html)
 - [好用的VPN](http://ssr01.com/user/shop)
+- [关闭VPN后，chrome打不开网页](https://mistsatan.github.io/articles/Unable-to-Open-Web-Pages.html)
 ## 正文：
 ## python3学习
 - [Python中self用法详解](https://blog.csdn.net/CLHugh/article/details/75000104)
