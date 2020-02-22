@@ -14,6 +14,8 @@
 ## 网络安全
 - [Web 安全入门1-书籍及建议](https://zhuanlan.zhihu.com/p/21339385)
 - [网络安全与人工智能的优质GIT](https://github.com/0xMJ/AI-Security-Learning)
+## 漏洞库建设
+- [安全漏洞评分的演变](https://blogs.cisco.com/security/the-evolution-of-scoring-security-vulnerabilities)
 ## 自然语言处理
 
 - [python自然语言处理](https://www.bilibili.com/video/av29796449)
