@@ -16,6 +16,7 @@
 - [网络安全与人工智能的优质GIT](https://github.com/0xMJ/AI-Security-Learning)
 ## 漏洞库建设
 - [安全漏洞评分的演变](https://blogs.cisco.com/security/the-evolution-of-scoring-security-vulnerabilities)
+- [解决selenium中无法点击Element：ElementClickInterceptedException](https://blog.csdn.net/WanYu_Lss/article/details/84137519)
 ## 自然语言处理
 
 - [python自然语言处理](https://www.bilibili.com/video/av29796449)
