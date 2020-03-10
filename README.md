@@ -5,6 +5,7 @@
 - [pycharm激活的方法](https://github.com/ai-lijunhua/Pycharm_activation_code/blob/master/activation_code)
 - [好用的VPN](http://ssr01.com/user/shop)
 - [关闭VPN后，chrome打不开网页](https://mistsatan.github.io/articles/Unable-to-Open-Web-Pages.html)
+-[sourceTree 添加 ssh key 方法](https://blog.csdn.net/tengdazhang770960436/article/details/54171911)
 ## 正文：
 ## python3学习
 - [Python中self用法详解](https://blog.csdn.net/CLHugh/article/details/75000104)
