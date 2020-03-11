@@ -1,11 +1,15 @@
 # Justin的学习历程
 最近一周新增：
 - [nltk安装，语料库nltk下载](https://blog.csdn.net/weixin_43955530/article/details/8909382)
-- [pycharm中超时安装的方法](https://blog.csdn.net/m0_37827405/article/details/81486272)
-- [pycharm激活的方法](https://github.com/ai-lijunhua/Pycharm_activation_code/blob/master/activation_code)
 - [好用的VPN](http://ssr01.com/user/shop)
+
+问题解决方案：
+- [git上传代码报错ssh: connect to host github.com port 22: Connection timed out解决办法](https://blog.csdn.net/qq_42146613/article/details/82772734)
 - [关闭VPN后，chrome打不开网页](https://mistsatan.github.io/articles/Unable-to-Open-Web-Pages.html)
 - [sourceTree 添加 ssh key 方法](https://blog.csdn.net/tengdazhang770960436/article/details/54171911)
+- [pycharm中超时安装的方法](https://blog.csdn.net/m0_37827405/article/details/81486272)
+- [pycharm激活的方法](https://github.com/ai-lijunhua/Pycharm_activation_code/blob/master/activation_code)
+
 ## 正文：
 ## python3学习
 - [Python中self用法详解](https://blog.csdn.net/CLHugh/article/details/75000104)
