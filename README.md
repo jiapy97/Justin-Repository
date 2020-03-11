@@ -9,6 +9,7 @@
 - [sourceTree 添加 ssh key 方法](https://blog.csdn.net/tengdazhang770960436/article/details/54171911)
 - [pycharm中超时安装的方法](https://blog.csdn.net/m0_37827405/article/details/81486272)
 - [pycharm激活的方法](https://github.com/ai-lijunhua/Pycharm_activation_code/blob/master/activation_code)
+- [git clone使用代理加速](https://upwon.github.io/posts/54130e76.html)
 
 ## 正文：
 ## python3学习
