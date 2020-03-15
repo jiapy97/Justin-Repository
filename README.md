@@ -11,6 +11,7 @@
 - [pycharm激活的方法](https://github.com/ai-lijunhua/Pycharm_activation_code/blob/master/activation_code)
 - [git clone使用代理加速](https://upwon.github.io/posts/54130e76.html)
 - [word删除整页](http://www.pooban.com/html/45/t-22945.html)
+- [Jupyter默认目录和默认浏览器修改](https://blog.csdn.net/caterfreelyf/article/details/79774311)
 
 ## 正文：
 ## python3学习
