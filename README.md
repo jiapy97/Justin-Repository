@@ -13,6 +13,7 @@
 - [word删除整页](http://www.pooban.com/html/45/t-22945.html)
 - [Jupyter默认目录和默认浏览器修改](https://blog.csdn.net/caterfreelyf/article/details/79774311)
 - [宝塔需要开放的端口号8888|888|80|443|20|21](https://www.budongyun.com/baota/1661/)
+- [如何在 Jupyter Notebook运行架好的Virtualenv环境呢？](https://zhuanlan.zhihu.com/p/33257881):第四部：将你的 Virtualenv 加入IPykernel裡,这里的python3在虚拟环境中改为python
 
 ## 正文：
 ## python3学习
