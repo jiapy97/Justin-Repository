@@ -15,6 +15,7 @@
 - [宝塔需要开放的端口号8888|888|80|443|20|21](https://www.budongyun.com/baota/1661/)
 - [如何在 Jupyter Notebook运行架好的Virtualenv环境呢？](https://zhuanlan.zhihu.com/p/33257881):第四部：将你的 Virtualenv 加入IPykernel里,这里的python3在虚拟环境中改为python
 - [虚拟环境jupyter notebook使用](https://www.jianshu.com/p/0432155d1bef)
+- [解决虚拟环境下, 使用的 Python 和 pip 依然是全局的问题](https://blog.csdn.net/qq_28702661/article/details/82592874)
 ## 正文：
 ## python3学习
 - [Python中self用法详解](https://blog.csdn.net/CLHugh/article/details/75000104)
