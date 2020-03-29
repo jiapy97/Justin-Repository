@@ -19,6 +19,7 @@
 
 ## word问题解决
 -[Office2016+math type出错 word无法加载此加载程序](https://blog.csdn.net/m0_37518259/article/details/83755778)
+-[数学公式识别神器—Mathpix Snip](https://zhuanlan.zhihu.com/p/63918634)
 ## 正文：
 ## python3学习
 - [Python中self用法详解](https://blog.csdn.net/CLHugh/article/details/75000104)
