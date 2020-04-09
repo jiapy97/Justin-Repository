@@ -4,6 +4,7 @@
 - [好用的VPN](http://ssr01.com/user/shop)
 
 问题解决方案：
+- [同一机器配置gitee、github、coding的ssh公钥](https://blog.csdn.net/xiaoyanli8077/article/details/102715932)
 - [git上传代码报错ssh: connect to host github.com port 22: Connection timed out解决办法](https://blog.csdn.net/qq_42146613/article/details/82772734)
 - [关闭VPN后，chrome打不开网页](https://mistsatan.github.io/articles/Unable-to-Open-Web-Pages.html)
 - [sourceTree 添加 ssh key 方法](https://blog.csdn.net/tengdazhang770960436/article/details/54171911)
