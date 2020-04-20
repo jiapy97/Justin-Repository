@@ -35,6 +35,7 @@
 - [解决selenium中无法点击Element：ElementClickInterceptedException](https://blog.csdn.net/WanYu_Lss/article/details/84137519)
 - [CVSS，CVE，CWE，CAPEC –安全专家应该知道的通用标准](https://infosec-handbook.eu/blog/cvss-cve-cwe-capec/)
 - [关于很多安全知识和前沿的博客站点](https://infosec-handbook.eu/)
+- [黑鸭子的开源安全博客系统](https://www.synopsys.com/blogs/software-security/)
 ## 自然语言处理
 
 - [python自然语言处理](https://www.bilibili.com/video/av29796449)
