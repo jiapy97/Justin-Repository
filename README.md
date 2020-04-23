@@ -25,6 +25,7 @@
 ## python3学习
 - [Python中self用法详解](https://blog.csdn.net/CLHugh/article/details/75000104)
 - [Python isinstance()函数](https://blog.csdn.net/qq_18649781/article/details/89511976)
+- [Linux系统安装Python3环境（超详细）](https://www.voorp.com/a/Linux%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85Python3%E7%8E%AF%E5%A2%83%E8%B6%85%E8%AF%A6%E7%BB%86L%E7%9A%84%E5%8D%9A%E5%AE%A2CSDN%E5%8D%9A%E5%AE%A2)
 
 
 ## 网络安全
