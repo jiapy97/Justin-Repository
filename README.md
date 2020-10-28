@@ -19,9 +19,10 @@
 - [解决虚拟环境下, 使用的 Python 和 pip 依然是全局的问题](https://blog.csdn.net/qq_28702661/article/details/82592874)
 
 ## word问题解决
--[Office2016+math type出错 word无法加载此加载程序](https://blog.csdn.net/m0_37518259/article/details/83755778)
--[数学公式识别神器—Mathpix Snip](https://zhuanlan.zhihu.com/p/63918634)
--[安装Mathtype 7 在 word2016中，解决Word闪退问题](https://blog.csdn.net/qq_39516859/article/details/103512382)
+- [Office2016+math type出错 word无法加载此加载程序](https://blog.csdn.net/m0_37518259/article/details/83755778)
+- [数学公式识别神器—Mathpix Snip](https://zhuanlan.zhihu.com/p/63918634)
+- [安装Mathtype 7 在 word2016中，解决Word闪退问题](https://blog.csdn.net/qq_39516859/article/details/103512382)
+
 ## 正文：
 ## python3学习
 - [Python中self用法详解](https://blog.csdn.net/CLHugh/article/details/75000104)
